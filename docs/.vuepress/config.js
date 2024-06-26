@@ -14,22 +14,6 @@ export default defineUserConfig({
 
     navbar: [
       '/',
-      {
-        text: 'Article',
-        link: '/article/',
-      },
-      {
-        text: 'Category',
-        link: '/category/',
-      },
-      {
-        text: 'Tag',
-        link: '/tag/',
-      },
-      {
-        text: 'Timeline',
-        link: '/timeline/',
-      },
     ],
   }),
 
